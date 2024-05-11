@@ -9,9 +9,8 @@ Space Invaders is a classic arcade game brought to life using Pygame. Defend Ear
 - Increasing difficulty as you progress, with faster and more aggressive aliens.
 - Score tracking to challenge yourself and compete with friends for the highest score.
 - Simple yet addictive gameplay suitable for players of all ages.
-- 
+  
 
-Uploading bandicam 2024-05-11 12-52-41-233.mp4…
 
 
 
@@ -33,6 +32,7 @@ git clone https://github.com/Sayakhatui/space-invaders.git
 4. Install Pygame:
 
 pip install pygame
+
 5. Download all the files and select 
 
   'main.py' to run
