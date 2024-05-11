@@ -25,13 +25,16 @@ Uploading bandicam 2024-05-11 12-52-41-233.mp4…
 1. Clone the repository:
 
 git clone https://github.com/Sayakhatui/space-invaders.git
+
 2. Navigate to the project directory:
+   
 'cd space-invaders'
 
-3. Install Pygame:
+4. Install Pygame:
 
 pip install pygame
-4. Download all the files and select 
+5. Download all the files and select 
+
   'main.py' to run
 
 ## Usage
